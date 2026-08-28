@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>items</key>
+  <array>
+    <dict>
+      <key>assets</key>
+      <array>
+        <dict>
+          <key>kind</key>
+          <string>software-package</string>
+          <key>url</key>
+          <string>https://storage.googleapis.com/runeboundrift-prod-assets-runebound-rift-assets/dist/adhoc/c51de3240560/RuneboundRift-iOS.ipa?X-Goog-Algorithm=GOOG4-RSA-SHA256&amp;X-Goog-Credential=runebound-asset-ci%40runebound-rift-assets.iam.gserviceaccount.com%2F20260828%2Fauto%2Fstorage%2Fgoog4_request&amp;X-Goog-Date=20260828T062810Z&amp;X-Goog-Expires=604800&amp;X-Goog-SignedHeaders=host&amp;X-Goog-Signature=6a5ae36570a8bc2597e72ff1b89f15551bc7d218d224716f265d16bce91a80fee0c099301054f03b721ce4b0cdc1d7942addda8c6bde84fe2bce2f8f8920e9b7e862bb69d6f6bab76d184c4dfa3bc481603cb38ad20c369dcfcc74265cb598733fcf91acc96c33250dc39ad2c748e5a643a48f2e9f74b4866d1c1d10ab133834b2aec0b68431e18229cd39ec08a2e37aa1d8addb405cc51f84d7f57f7c7f065b325aa9882c487aa29bab8c250558ac62ffa8c9700dd1e2ae6dcaac82d244fef244633337b048539dcdb82c63fe91a6eb4212406702e4638a362810b429dee66f3973f47decce9dad02481bbb08bd3f6a29a7123ef34aa571a9a9471159144f22</string>
+        </dict>
+      </array>
+      <key>metadata</key>
+      <dict>
+        <key>bundle-identifier</key>
+        <string>com.nazgugu.runeboundrift</string>
+        <key>bundle-version</key>
+        <string>1787894473</string>
+        <key>kind</key>
+        <string>software</string>
+        <key>title</key>
+        <string>Runebound Rift</string>
+      </dict>
+    </dict>
+  </array>
+</dict>
+</plist>
