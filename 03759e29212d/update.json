@@ -1,7 +1,7 @@
 {
   "channel": "internal",
   "gitSha": "03759e29212d6e9043e4365344072a7a8e85b606",
-  "installURL": "itms-services://?action=download-manifest&url=https://nazgugu.github.io/RuneboundRiftBuilds/latest/manifest.plist",
+  "installURL": "itms-services://?action=download-manifest&url=https://nazgugu.github.io/RuneboundRiftBuilds/03759e29212d/manifest.plist",
   "latestBuild": "1788294352",
   "minimumBuild": "0",
   "publishedAt": "2026-09-01T20:52:48Z",
