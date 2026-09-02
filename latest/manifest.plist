@@ -11,7 +11,7 @@
           <key>kind</key>
           <string>software-package</string>
           <key>url</key>
-          <string>https://storage.googleapis.com/runeboundrift-prod-assets-runebound-rift-assets/dist/adhoc/latest/RuneboundRift-iOS.ipa?X-Goog-Algorithm=GOOG4-RSA-SHA256&amp;X-Goog-Credential=runebound-asset-ci%40runebound-rift-assets.iam.gserviceaccount.com%2F20260902%2Fauto%2Fstorage%2Fgoog4_request&amp;X-Goog-Date=20260902T051725Z&amp;X-Goog-Expires=604800&amp;X-Goog-SignedHeaders=host&amp;X-Goog-Signature=1e983bd85d9567f1c4956daff3c4ea22b788a3afc1311eec70e5b4a1c45c71237d3ec41b1cccd8084fdaa53a137c79fa3a8fc207a47276cc68cf128549feec4489ed01007629b912e927cb64655474f843390a43245109de070d7f44cf9e3fd2de0ad4ff4ef2044ea1967775e655d5e68e6e74c8541fed1c0a0d8ba6d51aa0e0e681238395e2e8330edc8df10c2d45a8e21f4b77f0a6f74f23edfc588c3a60f8af52637b6129c56dccb2bd363c5b5f81bf0c0555e43379c5ff5e3427d866b4dfa624710610384a8c40a49aa8cfd308dc488a731914342913fe3da987699c0d0cad77343173626ce5534da23f53d6f0eba941bc276c2b84148b7b80c9926b82ce</string>
+          <string>https://storage.googleapis.com/runeboundrift-prod-assets-runebound-rift-assets/dist/adhoc/latest/RuneboundRift-iOS.ipa?X-Goog-Algorithm=GOOG4-RSA-SHA256&amp;X-Goog-Credential=runebound-asset-ci%40runebound-rift-assets.iam.gserviceaccount.com%2F20260902%2Fauto%2Fstorage%2Fgoog4_request&amp;X-Goog-Date=20260902T220744Z&amp;X-Goog-Expires=604800&amp;X-Goog-SignedHeaders=host&amp;X-Goog-Signature=8f3296872609d891d7ad0b57a895587f288d2c84ca5ea0e29d8f7483c275fbee61d92e28efd41ec42ecf6b27e08ecd1d66bcfdf0410a7d31859424117da1040cb485e36f0b546393990e1c86d8d6ab093caab7bd48dcb25066566ecad08c6695b8d76bc56d0aa7848833fa9ebc5608154d95a54be5f72e2b068657546fd548f252935aa5903e82a99dfd0db04358c8ae0da71cc1663a7d4c4d27ab73aef3abd904a1ae9b74d8c4b0889d5b9e8b164ca683cbd904bef24e6024077911fb34740a2967afdac11f49fccf9b7e984f7579575e4fcc80978e9df34eb418cf199894ee44dee33a48f9e2f9d8f959b2380607d7e2a008c9381bb23e9004493c1f8887af</string>
         </dict>
       </array>
       <key>metadata</key>
@@ -19,7 +19,7 @@
         <key>bundle-identifier</key>
         <string>com.nazgugu.runeboundrift</string>
         <key>bundle-version</key>
-        <string>1788324108</string>
+        <string>1788385161</string>
         <key>kind</key>
         <string>software</string>
         <key>title</key>
